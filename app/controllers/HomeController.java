@@ -16,7 +16,7 @@ public class HomeController extends Controller {
 	
 	// adding yet another comment to LearningBranch02
 	
-	// this should only appear in the "alpha" branch
+	// this should only appear in the "beta" branch
 
     /**
      * An action that renders an HTML page with a welcome message.
